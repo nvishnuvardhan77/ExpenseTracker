@@ -4,7 +4,7 @@ A simple web application to track and manage daily expenses.
 
 ## 🌐 Live Demo
 
-**[Click here to use the Expense Tracker](PASTE-YOUR-DEPLOYED-WEBSITE-LINK-HERE)**
+**[Click here to use the Expense Tracker]https://nvishnuvardhan77.github.io/ExpenseTracker/)**
 
 ## 🛠️ Built With
 
